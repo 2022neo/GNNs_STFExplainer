@@ -1,0 +1,27 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+cuda-cudart=11.8.89=0
+cuda-cupti=11.8.87=0
+cuda-libraries=11.8.0=0
+cuda-nvrtc=11.8.89=0
+cuda-nvtx=11.8.86=0
+cuda-runtime=11.8.0=0
+cudatoolkit=11.3.1=h2bc3f7f_2
+networkx=3.0=pypi_0
+numpy=1.23.3=py38h14f4228_1
+numpy-base=1.23.3=py38h31eccc5_1
+pandas=1.5.1=pypi_0
+pyg=2.3.0=py38_torch_2.0.0_cu118
+pyg-lib=0.2.0+pt20cu118=pypi_0
+python=3.8.13=haa1d7c7_1
+pytorch=2.0.1=py3.8_cuda11.8_cudnn8.7.0_0
+pytorch-cuda=11.8=h7e8668a_5
+sklearn=0.0.post1=pypi_0
+torch=1.12.1=pypi_0
+torch-cluster=1.6.1+pt20cu118=pypi_0
+torch-scatter=2.1.1+pt20cu118=pypi_0
+torch-sparse=0.6.17+pt20cu118=pypi_0
+torch-spline-conv=1.2.2+pt20cu118=pypi_0
+torch-summary=1.4.5=pypi_0
+transformers=4.20.1=pypi_0
