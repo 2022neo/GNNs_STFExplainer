@@ -1,5 +1,5 @@
 # STFExplainer: Stratified GNN Explanations through Sufficient Expansion
-This is the official implementation of [STFExplainer](https://ojs.aaai.org/index.php/AAAI/article/view/29180/30232).
+This is the official implementation of [STFExplainer](https://underline.io/lecture/93149-stratified-gnn-explanations-through-sufficient-expansion).
 
 ## Installation
 ## Install environment
