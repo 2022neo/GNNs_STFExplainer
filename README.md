@@ -1,7 +1,7 @@
 # STFExplainer: Stratified GNN Explanations through Sufficient Expansion
 <div id="top" align="center">
 <p align="center">
-<img src="figures/framework.png" width="1000px" >
+<img src="figures/STFExplainer.png" width="1000px" >
 </p>
 </div>
 
