@@ -8,7 +8,6 @@
 This is the official implementation of [STFExplainer](https://underline.io/lecture/93149-stratified-gnn-explanations-through-sufficient-expansion), accepted by AAAI'24.
 
 ## Installation
-## Install environment
 Set up the Python environment according to requirements.txt. Python 3.8 or above is required.
 
 ## Dataset
