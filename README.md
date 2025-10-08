@@ -1,5 +1,11 @@
 # STFExplainer: Stratified GNN Explanations through Sufficient Expansion
-This is the official implementation of [STFExplainer](https://underline.io/lecture/93149-stratified-gnn-explanations-through-sufficient-expansion).
+<div id="top" align="center">
+<p align="center">
+<img src="figures/framework.png" width="1000px" >
+</p>
+</div>
+
+This is the official implementation of [STFExplainer](https://underline.io/lecture/93149-stratified-gnn-explanations-through-sufficient-expansion), accepted by AAAI'24.
 
 ## Installation
 ## Install environment
